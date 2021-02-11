@@ -4,6 +4,7 @@
     {
         BlckForest,
         Chocolate,
+        Mixfruit,
         Pineapple,
         Strawberry,
         Vanilla
